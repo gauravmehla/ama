@@ -1,6 +1,6 @@
 # 💬 Ask me anything!
 
-Anyone can ask me anything means *anything*. Personal questions. Money. Work. Life. Code. Whatever.. and this way anyone can read the answers also!
+Anyone can ask me anything means _**anything**_. Personal questions. Money. Work. Life. Code. Whatever.. and this way anyone can read the answers also!
 
 ---
 
