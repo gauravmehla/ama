@@ -19,3 +19,7 @@ Anyone can ask me anything means _**anything**_. Personal questions. Money. Work
 - [Read more AMAs](https://github.com/sindresorhus/amas)
 - [Create your own AMA](https://github.com/sindresorhus/amas/blob/master/create-ama.md)
 - [What's an AMA?](https://en.wikipedia.org/wiki/Reddit#IAmA_and_AMA)
+
+---
+
+Thanks [sindresorhus](https://github.com/sindresorhus/ama) for the template.
