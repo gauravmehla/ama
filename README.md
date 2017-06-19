@@ -2,6 +2,8 @@
 
 Anyone can ask me anything means _**anything**_. Personal questions. Money. Work. Life. Code. Whatever.. and this way anyone can read the answers also!
 
+## [Ask a question](../../issues/new) &nbsp;&nbsp;&nbsp; [Read questions](../../issues?utf8=%E2%9C%93&q=is%3Aissue%20is%3Aclosed%20sort%3Aupdated-desc%20-label%3Ahidden)
+
 ---
 
 ### Guidelines
