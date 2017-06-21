@@ -21,5 +21,10 @@ Anyone can ask me anything i.e personal questions, Money, Work, Life, Code, What
 - [What's an AMA?](https://en.wikipedia.org/wiki/Reddit#IAmA_and_AMA)
 
 ---
+### Twitter
+
+If you have something quick and easy, just ping me on Twitter. 140 characters makes everyone more efficient. I'm [@_gauravmehla](https://twitter.com/_gauravmehla)!
+
+---
 
 Thanks [sindresorhus](https://github.com/sindresorhus/ama) for the template.
