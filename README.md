@@ -6,7 +6,7 @@ Anyone can ask me anything i.e personal questions, Money, Work, Life, Code, What
 
 ---
 ### About me
-Want to know more about me ? Take a look at [Gaurav Mehla - Software Engineer ](https://www.mehla.in)
+Want to know more about me ? Take a look at [Gaurav Mehla - Software Engineer ](https://www.mehla.in) and [Gaurav Mehla - Quora ](https://www.quora.com/profile/GauravMehla)
 
 ### Guidelines
 
